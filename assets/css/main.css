@@ -1,0 +1,82 @@
+
+li {
+    list-style: none;    
+}
+
+body {
+    background-color: #000;
+    color: #FFF;
+}
+
+/* /////////////////////////////////////Estilos contenedores///////////////////////////////////// */
+
+/* main */
+.main {}
+
+/* Area */
+.contanier-principal {
+    /* width: 600px;
+    height: 400px; */
+    width: 1200px;
+    height: 800px;
+    background-color:rgb(15, 248, 131);
+    margin: 0px auto;
+    /* Efecto grafiti */
+    /* box-shadow: 121px 86px 123px 11px red; */
+}
+
+/* /////////////////////////////////////Estilos culebrita///////////////////////////////////// */
+
+/* Culebrita */
+.culebrita {
+    /* width: 15px;
+    height: 15px; */
+    width: 30px;
+    height: 30px;
+    position: absolute;
+}
+
+.culebritaPrincipal {
+    background-color: rgb(255, 157, 0);
+    margin-left: 150px;
+}
+
+#cabeza {
+    /* width: 15px;
+    height: 5px; */
+    width: 30px;
+    height: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: red;
+}
+
+.parteTraseraCulebrita {
+    background-color: rgb(255, 0, 0);
+}
+
+/* /////////////////////////////////////Estilos comida///////////////////////////////////// */
+
+.comida {
+    /* width: 5px;
+    height: 5px;
+    border-radius: 5px; */
+    width: 8px;
+    height: 8px;
+    border-radius: 8px;
+    display: none;
+    background-color: rgb(0, 0, 0);
+}
+
+/* /////////////////////////////////////Estilos marcador///////////////////////////////////// */
+
+/* Marcador */
+.marcador {
+    height: 100px;
+    border-bottom: 1px solid red;
+    padding: 10px;
+}
+
+.marcador li {
+    font: 20px Arial, sans-serif;
+}
