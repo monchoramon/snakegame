@@ -1,4 +1,4 @@
 # snakegame
 Primera versión.
 
-🐍
+🐍 😱 
