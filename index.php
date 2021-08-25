@@ -13,11 +13,13 @@
             <div class="marcador">
                 <li>Puntos: <span id="totalPuntos">0</span></li>
             </div>
-            <div class="culebrita parteTraseraCulebrita 1" style="margin-left:0px"></div>   <!-- 6 {index 0} -->
-            <div class="culebrita parteTraseraCulebrita 2" style="margin-left:30px"></div>  <!-- 5 {index 1} -->
-            <div class="culebrita parteTraseraCulebrita 3" style="margin-left:60px"></div>  <!-- 4 {index 2} -->
-            <div class="culebrita parteTraseraCulebrita 4" style="margin-left:90px"></div>  <!-- 3 {index 3} -->
-            <div class="culebrita parteTraseraCulebrita 5" style="margin-left:120px"></div> <!-- 2 {index 4} -->
+            <div class="contenedorPartesCulebrita">
+                <div class="culebrita parteTraseraCulebrita 1" style="margin-left:0px"></div>   <!-- 6 {index 0} -->
+                <div class="culebrita parteTraseraCulebrita 2" style="margin-left:30px"></div>  <!-- 5 {index 1} -->
+                <div class="culebrita parteTraseraCulebrita 3" style="margin-left:60px"></div>  <!-- 4 {index 2} -->
+                <div class="culebrita parteTraseraCulebrita 4" style="margin-left:90px"></div>  <!-- 3 {index 3} -->
+                <div class="culebrita parteTraseraCulebrita 5" style="margin-left:120px"></div> <!-- 2 {index 4} -->
+            </div>
             <div class="culebrita culebritaPrincipal" style="margin-left:150px">
                 <div id="cabeza"></div>
             </div>

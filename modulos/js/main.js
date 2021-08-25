@@ -27,7 +27,7 @@ var indexPartesCulebrita = 0;
 var incrementoMarginLeftMovimientoAbajo = 1;
 
 // --- Se inicializa culebrita.
-comenzarJuego(100);
+comenzarJuego(1);
 function comenzarJuego( velocidad ) {
 
     var id = setInterval(function(){

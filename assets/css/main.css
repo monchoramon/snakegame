@@ -51,9 +51,16 @@ body {
     background-color: red;
 }
 
+/* Partes de la culebrita */
+
 .parteTraseraCulebrita {
     background-color: rgb(255, 0, 0);
 }
+
+.contenedorPartesCulebrita {
+    display: none;
+}
+
 
 /* /////////////////////////////////////Estilos comida///////////////////////////////////// */
 
